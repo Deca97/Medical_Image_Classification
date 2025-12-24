@@ -9,7 +9,7 @@ Il progetto consiste nello sviluppo di un sistema di Computer Vision basato su D
 Il progetto utilizza DermaMNIST, un dataset clinico standardizzato derivato dalla collezione HAM10000. Include migliaia di immagini dermatoscopiche suddivise in 7 categorie patologiche, tra cui:
 
 
-3. Architettura e Strategia di Apprendimento
+2. Architettura e Strategia di Apprendimento
    
 Il sistema sfrutta il Transfer Learning utilizzando una rete neurale ResNet18 pre-addestrata su ImageNet. La strategia di training è di tipo "progressivo":
 
